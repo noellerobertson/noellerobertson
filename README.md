@@ -4,6 +4,7 @@ I'm currently working on an associate's degree in Cybersecurity, and plan to fur
 ### :snake: Python Projects:
 * [PTCC Cyber Security College Credit Calculator](https://github.com/noellerobertson/cybersecuritycollegecreditcalculator)
 * [Random Number Game](https://github.com/noellerobertson/randomnumbergame)
+* [PTCC Cyber Security AAS Credit Pie Chart](https://github.com/noellerobertson/CyberSecurityAASPieChart)
 ### :shield: Cybersecurity Projects:
 
 ### :computer: Miscellaneous Projects:
