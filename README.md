@@ -6,5 +6,4 @@ I'm currently working on an associate's degree in Cyber Security, and plan to fu
 * [Random Number Game](https://github.com/noellerobertson/randomnumbergame) :game_die: COCP 1213 Midterm
 * [PTCC Cyber Security AAS Credit Pie Chart](https://github.com/noellerobertson/CyberSecurityAASPieChart)
 
-
-
+### :brain: Machine Learning Projects:
