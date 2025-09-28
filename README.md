@@ -1,2 +1,3 @@
-## :wave: Hi there! I'm Noelle. Welcome to my GitHub Profile!
-I'm currently working on an associate's degree in Cybersecurity, and plan to further my education in Computer Science afterwards. 
+## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Portfolio.
+
+I am a technology coordinator for a school district researching security for the K12 sector, particularly those with low technology/cybersecurity budgets.
