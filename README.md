@@ -1,6 +1,6 @@
 ![nmapeyes](nmapeyes.jpg)
 
-## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Portfolio.
+## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Page.
 
 I am a technology coordinator for a school district researching cybersecurity solutions/efficiency for the K12 sector, particularly those with low technology/cybersecurity budgets.
 
@@ -11,4 +11,4 @@ I am a technology coordinator for a school district researching cybersecurity so
 ## 🛰️ What I Do For Fun
 - 🌲 Hike 
 - 📡 Study HAM Radio
-- 🎨 Make Art
+- 🎨 Make Weird Art
