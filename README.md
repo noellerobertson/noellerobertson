@@ -5,7 +5,7 @@
 I am a technology coordinator for a school district researching cybersecurity solutions/efficiency for the K12 sector, particularly those with low technology/cybersecurity budgets.
 
 ## 🔍 Current Research
-- 🔺 Building open source tools for K12 Tech Coordinators on a budget.
+- 🧰 Building open source tools for K12 Tech Coordinators on a budget.
 - 🚪 Investigate proxy detection on a network, build accessible monitoring tool.
 - 💻 Study Software/AI Engineering at WGU to establish knowledge in software/tool development. 
 
