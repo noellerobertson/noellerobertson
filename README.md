@@ -3,9 +3,8 @@
 ## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Page.
 
 ## 🔍 Current Research
-- 🧰 Building open source tools for K12 Tech Coordinators on a budget.
-- 🚪 Investigate proxy detection on a network, build accessible monitoring tool.
-- 💻 Study Software/AI Engineering at WGU to establish knowledge in software/tool development. 
+- ☕ Learning Java.
+- 💻 Study Software/AI Engineering to establish knowledge in software/tool development. 
 
 ## 🛰️ What I Do For Fun
 - 🌲 Get out in nature.
