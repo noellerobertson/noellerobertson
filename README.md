@@ -2,9 +2,9 @@
 
 ## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Page.
 
-## 🔍 Current Research
+## 🔍 Current Studies
 - ☕ Learning Java.
-- 💻 Study Software/AI Engineering to establish knowledge in software/tool development. 
+- 💻 Software/AI Engineering BS/MS.
 
 ## 🛰️ What I Do For Fun
 - 🌲 Get out in nature.
