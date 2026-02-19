@@ -1,4 +1,4 @@
-![nmapeyes](nmapeyes.jpg)
+![trapped](trapped.jpg)
 
 ## :wave: Hi there! My name is Noelle Robertson. Welcome to my GitHub Page.
 
